@@ -14,21 +14,21 @@ const data = {
         {
             label: "Examinees",
             data: examiness,
-            backgroundColor: "rgba(75, 192, 192, 0.7)",
-            borderColor: "rgba(75, 192, 192, 1)",
+            backgroundColor: "#006769",
+            borderColor: "4#0A578",
             borderWidth: 1,
         },
         {
             label: "GPA 5",
             data: gpa,
-            backgroundColor: "rgba(255, 99, 132, 0.7)",
-            borderColor: "rgba(255, 99, 132, 1)",
+            backgroundColor: "#002379",
+            borderColor: "#7469B6",
             borderWidth: 1,
         },
         {
             label: "Pass Percentage",
             data: passPercentage,
-            backgroundColor: "#green",
+            backgroundColor: "#0A6847",
             borderColor: "#618264",
             borderWidth: 1,
         },
@@ -42,14 +42,14 @@ const data = {
         {
             label: "Male",
             data: maleCount,
-            backgroundColor: "#9E7E7B",
+            backgroundColor: "#03A3FF",
             borderColor: "#7A4E48",
             borderWidth: 1,
         },
         {
             label: "Female",
             data: femaleCount,
-            backgroundColor: "#B2B09B",
+            backgroundColor: "#EC49A7",
             borderColor: "#7D7A68",
             borderWidth: 1,
         }
