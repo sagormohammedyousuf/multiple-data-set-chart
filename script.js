@@ -64,7 +64,7 @@ const config = {
             y: {
                 beginAtZero: true,
                 ticks: {
-                    stepSize: 500000,
+                    stepSize: 50000,
                     callback: function(value, index, values) {
                         return value.toLocaleString(); // Format y-axis ticks with commas
                     }
